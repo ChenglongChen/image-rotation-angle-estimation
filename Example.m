@@ -3,7 +3,7 @@
 %
 %  [1] C. Chen, J. Ni, and Z. Shen, "Effective estimation of image rotation
 % angle using spectral method," Signal Processing Letters, IEEE, vol. 21,
-% no. 7, pp. 890¨C894, July 2014.
+% no. 7, pp. 890--894, July 2014.
 %
 % The 'Lena' image used in this example can be downloaded from the USC-SIPI
 % image database on:
