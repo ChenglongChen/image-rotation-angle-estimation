@@ -20,8 +20,13 @@ function angle = EstimateAngle(P,JPEG)
 % -------------------------------------------------------------------------
 % Estimated rotation angle based on peak found in the image spectrum using
 % various methods.
-% [1]
-% [2] 
+% [1] C. Chen, J. Ni, and Z. Shen, "Effective estimation of image rotation
+% angle using spectral method," Signal Processing Letters, IEEE, vol. 21,
+% no. 7, pp. 890¨C894, July 2014.
+% [2] D. V?azquez-Pad??n, C. Mosquera, and F. P?erez-Gonz?alez, "Twodimensional
+% statistical test for the presence of almost cyclostationarity on
+% images," in International Conference on Image Processing, Sep. 2010,
+% pp. 1745¨C1748.
 % -------------------------------------------------------------------------
 
 
